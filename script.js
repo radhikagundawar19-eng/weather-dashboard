@@ -1,5 +1,5 @@
 // Weather Dashboard - API Integration
-const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY'; // Replace with your actual API key
+const API_KEY = '14a58cb79ebcb6d6c6ad73572b66e125'; 
 const BASE_URL = 'https://api.openweathermap.org';
 
 // DOM Elements
