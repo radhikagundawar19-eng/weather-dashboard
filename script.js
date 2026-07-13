@@ -1,6 +1,14 @@
 // Weather Dashboard - API Integration
 const API_KEY = '14a58cb79ebcb6d6c6ad73572b66e125'; 
 const BASE_URL = 'https://api.openweathermap.org';
+# Clone the repo
+git clone https://github.com/radhikagundawar19-eng/weather-dashboard.git
+cd weather-dashboard
+
+# Start a local server
+python -m http.server 8000
+# OR
+npx http-server
 
 // DOM Elements
 const cityInput = document.getElementById('cityInput');
